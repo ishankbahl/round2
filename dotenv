@@ -1,0 +1,2 @@
+DATABASE=<db-url>
+ENCRYPTION_KEY=<encryption-key>
